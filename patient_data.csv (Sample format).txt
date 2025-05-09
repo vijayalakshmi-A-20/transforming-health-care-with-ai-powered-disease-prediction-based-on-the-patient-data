@@ -1,5 +1,1 @@
-| age | gender | blood\_pressure | cholesterol | sugar | target       |
-| --- | ------ | --------------- | ----------- | ----- | ------------ |
-| 45  | M      | 120             | 210         | 1     | diabetes     |
-| 60  | F      | 140             | 250         | 0     | hypertension |
-| ... | ...    | ...             | ...         | ...   | ...          |
+
